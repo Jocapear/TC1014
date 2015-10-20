@@ -27,5 +27,5 @@ def main():
             add += mult
             counter += 1
         return add
-    print (dot_product(list1,list2))
+    print ("The dot product of your lists is",dot_product(list1,list2))
 main()
