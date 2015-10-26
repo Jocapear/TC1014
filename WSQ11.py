@@ -30,7 +30,7 @@ for i in List:
             
         if x != reverse and counter >= 30:
             print (i+1,"is Lychrel")
-            lycherel += 1
+            lychrel += 1
                 
 print ("Range size:",len(List))
 print ("Natural palindromes: ",palindrome)
